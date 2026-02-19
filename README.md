@@ -15,7 +15,6 @@
 
 - 🔭 I’m currently working on **my university final project**
 - 🌱 I’m currently learning **ERP, Flutter, NOSQL, QA**
-- 👯 I’m looking to collaborate on **Back-End Projects**
 - 🎓 Studying at **UNISO**
 - ☀️ **Praise The Sun**
 
